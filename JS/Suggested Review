@@ -1,0 +1,48 @@
+Here are the important things you need to know:
+
+JS Overview:
+http://jsforcats.com/
+
+JS fundamentals: 
+Basics, syntax, data types - 
+https://www.codecademy.com/learn/introduction-to-javascript 
+http://www.howtocreate.co.uk/tutorials/javascript/introduction
+https://www.w3schools.com/js/js_intro.asp
+
+Loops -
+https://www.w3schools.com/js/js_loop_for.asp
+https://www.w3schools.com/js/js_loop_while.asp
+https://www.codecademy.com/courses/javascript-beginner-en-NhsaT/0/1
+http://www.learn-js.org/en/Loops
+
+Functions -
+http://www.learn-js.org/en/Functions
+http://www.learn-js.org/en/Objects
+https://www.w3schools.com/js/js_functions.asp
+
+
+jQuery: 
+https://www.w3schools.com/jquery/jquery_intro.asp
+https://www.thinkful.com/learn/intro-to-jquery/
+https://www.codecademy.com/courses/web-beginner-en-bay3D/0/1?curriculum_id=50a3fad8c7a770b5fd0007a1
+
+AJAX:
+https://www.w3schools.com/jquery/jquery_ajax_intro.asp
+https://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-ajax-with-jquery--cms-25126
+http://www.openjs.com/ajax/tutorial/
+https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started
+http://www.jquery-tutorial.net/ajax/introduction/
+
+Sinatra:
+Sinatra basics - 
+http://www.screencasts.org/episodes/introduction-to-sinatra
+http://budiirawan.com/introduction-sinatra/
+https://nathanhoad.net/intro-to-sinatra-make-an-ip-checker
+http://guides.railsgirls.com/sinatra-app
+Routes -
+https://wixelhq.com/blog/working-with-sinatra-routes-and-conditions
+
+MVC - 
+https://www.sitepoint.com/build-a-sinatra-mvc-framework/
+https://nickcharlton.net/posts/structuring-sinatra-applications.html
+http://stream.rubydaily.org/post/55185549321/tutorial-build-a-sinatra-mvc-framework-by
